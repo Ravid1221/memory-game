@@ -1,0 +1,2 @@
+*{margin:0;padding:0;-webkit-box-sizing:border-box;box-sizing:border-box}body{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;min-height:100vh}.main-container{display:-ms-grid;display:grid;-ms-grid-columns:(100px)[3];grid-template-columns:repeat(3, 100px);gap:1rem}.myCard{width:100px;height:100px;-o-object-fit:cover;object-fit:cover}.coveredCard{height:100px;width:100px;background-color:#64ffcb}
+/*# sourceMappingURL=memory.css.map */
